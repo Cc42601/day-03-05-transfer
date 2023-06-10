@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../../day-04-springmvc/day-04-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../com.itheima/day-08-01-ssm-parent/day-08-01-ssm-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../com.itheima/day-08-01-ssm-parent/day-08-01-ssm-webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-04-springmvc/day-04-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-06-03-ssm/day-06-03-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-06-springmvc/day-06-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-07-01-upload/day-07-01-upload" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-07-03-ssm/day-07-03-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-07-04-ssm/day-07-04-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-07-05-ssm/day-07-05-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-08-03-ssm/day-08-03-ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day-08-09-travel/day-08-09-travel" />
+    <file type="web" url="file://$PROJECT_DIR$/../../day08-09-travel" />
+    <type id="Spring" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="FLOW" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../day-03-06-transfer-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-03-07-transfer-anno/day-03-07-transfer-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-04-springmvc/day-04-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-04-01-springmvc/day-04-01-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-05-springmvc/day-05-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../day-04-springmvc/day-04-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-06-springmvc/day-06-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-07-01-upload/day-07-01-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-08-03-ssm/day-08-03-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-07-04-ssm/day-07-04-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-07-05-ssm/day-07-05-ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../com.itheima/day-08-01-ssm-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day-08-09-travel/day-08-09-travel/pom.xml" />
+        <option value="$PROJECT_DIR$/../../day08-09-travel/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../com.itheima/day-08-01-ssm-parent/day-08-01-ssm-web/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
